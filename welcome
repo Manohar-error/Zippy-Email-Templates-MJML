@@ -1,0 +1,90 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" />
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image width="100px" alt="Logo" src="https://tinyurl.com/2s3kpmcb"></mj-image>
+
+
+
+        <mj-image src="https://tinyurl.com/mddwn7mv" alt="map" width="1000px" padding="0"></mj-image>
+
+
+        <mj-text font-size="24px" font-family="Poppins" line-height="50px" padding="2px 5px" font-weight="900"
+          background-color="transparent">
+          <div
+            style="text-align: center; background: linear-gradient(to right, #FFF800, #fff800, #fff800, #FF1361, #44107A, #C12E2A,  #C12E2A, #C12E2A, #C12E2A ); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+            Welcome To Zippyy!
+          </div>
+        </mj-text>
+
+
+        <mj-text font-size="16px" color="#5F5A6B" font-family="poppins" line-height="24px" font-weight="400">
+
+          Hey Jack 👋,<br><br>
+
+          Welcome aboard! We're thrilled to have you join Zippyy family 🎉.<br><br>
+
+          Thank you for choosing us as your platform of choice. We're here to make your shipping experience as seamless
+          as possible.<br><br>
+
+          If you have any questions or need assistance, don't hesitate to reach out to our friendly support team at
+          here.<br><br>
+
+          Once again, welcome to Zippyy! We can't wait to see what great things we'll achieve together 🎊.<br><br>
+
+          Best regards,<br>
+          Zippyy team.</mj-text>
+
+
+
+
+        <mj-text align="center" css-class="button-container">
+          <a href="#" class="button"
+            style="display: inline-block; background-color: #D54029; color: #fff; text-decoration: none; padding: 12px 40px; border-radius: 5px;font-family: Poppins;font-weight:500;">Login</a>
+          <a href="#" class="button-outline"
+            style="display: inline-block; background-color: transparent; color: black; text-decoration: none; padding: 10px 20px; border: 1.3px solid black; border-radius: 5px; margin-left: 10px;margin-top:10px ;font-family: Poppins;font-weight:500;">Explore
+            more</a>
+        </mj-text>
+
+
+
+        <mj-divider border-color="#D9D9D9" border-width="1px" padding="20px 0 10px 0"></mj-divider>
+
+
+
+        <mj-text font-size="10px" color="#5F5A6B" font-family="poppins" line-height="12.1px" align="center">© 2024
+          GoDash. All rights reserved.
+          <br><br><br><br>
+          You are receiving this mail because you registered to join the zippyy. This also shows that you agree to our
+          Terms of use and Privacy Policies.
+          </mj-textmj-text>
+          <br><br>
+
+
+
+          <mj-section>
+            <mj-column>
+              <mj-text font-family="Poppins" align="center">
+                <a href="https://www.godash.ai/privacy-policy">privacy policy</a> &bull;
+
+              </mj-text>
+            </mj-column>
+          </mj-section>
+
+
+
+          <mj-section>
+            <mj-column>
+              <mj-text font-family="Poppins" align="center">
+                <a href="https://www.godash.ai/terms-conditions">Terms of services</a>
+
+              </mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
